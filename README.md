@@ -82,7 +82,3 @@ LLM-generated SQL may be incorrect. Validate query results and restrict database
 - Add query history and error handling.
 - Support more databases and business datasets.
 
-## License
-
-Choose a license before making the repository public. For example, the MIT License allows broad reuse with attribution.
-
